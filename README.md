@@ -6,6 +6,9 @@
 [![Node.js](https://img.shields.io/badge/Node.js-v18%2B-forestgreen)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-Bundler-646CFF)](https://vitejs.dev/)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://krishi-samadhan-three.vercel.app/)
+
+### 🔗 [Live Demo → krishi-samadhan-three.vercel.app](https://krishi-samadhan-three.vercel.app/)
 
 **Krishi Samadhan** is a unified full-stack agricultural intelligence & decision support platform designed to solve the problem of fragmented agricultural data. It continuously collects, integrates, visualizes, and analyzes real-time weather, soil diagnostics, satellite vegetation indices, AI pest detection, APMC mandi rates, input store prices, and government schemes into actionable farmer advisories.
 
